@@ -12,4 +12,14 @@
         android:textSize="32sp"
         android:text="Account" />
 
+    <Button
+        android:id="@+id/btnLogout"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_gravity="bottom"
+        android:text="Logout"
+        android:textColor="#ffffff"
+        android:layout_marginBottom="60dp"
+        android:background="#D84315"/>
+
 </FrameLayout>
